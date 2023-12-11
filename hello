@@ -1,3 +1,0 @@
-#!/home/stormcrow/.nvm/versions/node/v20.10.0/bin/node
-
-console.log("hello, world!");
